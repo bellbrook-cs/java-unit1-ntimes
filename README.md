@@ -1,10 +1,26 @@
 # Template Assignment
 
-## Problem Statement
+Create a program that includes two variables... a `String` and an `int`. The `String` should be initialized with a phrase or quote that contains at least 10 characters. The `int` should be a value between `3` and `5`.
 
-## Input Description
+Write the code necessary to display the original `String`, followed by three `>` symbols, followed by a new version of the `String` containing only the first and last `"int"` characters.
 
-## Sample Input/Output
+For example, if the `String` contained the quote `"It was the best of times, it was the worst of times!"` and the `int` value was `4`, then the output should be... 
+`It was the best of times, it was the worst of times!>>>It wmes!`
+
+## Sample Input/Ouput
+
+### Input
+
+```java
+String str1 = "It was the best of times, it was the worst of times!";
+int num1 = 4;
+```
+
+### Output
+
+```
+It was the best of times, it was the worst of times!>>>It wmes!
+```
 
 ## Submission
 
