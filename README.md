@@ -1,4 +1,4 @@
-# Template Assignment
+# `n` Times
 
 Create a program that includes two variables... a `String` and an `int`. The `String` should be initialized with a phrase or quote that contains at least 10 characters. The `int` should be a value between `3` and `5`.
 
